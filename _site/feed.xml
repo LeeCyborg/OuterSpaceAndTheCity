@@ -4,11 +4,11 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-08-18T13:09:38-04:00</updated>
+  <updated>2023-08-26T13:24:09-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
-    <title type="html">Outer Space and the city</title>
+    <title type="html">Space and Society</title>
   
 
   
@@ -20,8 +20,8 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <title type="html">Heteropolis</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Heteropolis" />
       <published>2014-07-18T00:00:00-04:00</published>
       <updated>2014-07-18T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-1</id>
@@ -54,8 +54,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <title type="html">Space Down</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Space Down" />
       <published>2014-07-17T00:00:00-04:00</published>
       <updated>2014-07-17T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-2</id>
@@ -88,8 +88,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
+      <title type="html">Outer Space And The City</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Outer Space And The City" />
       <published>2014-07-16T00:00:00-04:00</published>
       <updated>2014-07-16T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-3</id>
@@ -122,8 +122,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
+      <title type="html">Space Feminisms</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Space Feminisms" />
       <published>2014-07-15T00:00:00-04:00</published>
       <updated>2014-07-15T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-4</id>
@@ -156,8 +156,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
+      <title type="html">Membranes In Action</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Membranes In Action" />
       <published>2014-07-15T00:00:00-04:00</published>
       <updated>2014-07-15T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-6</id>
@@ -190,8 +190,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 5</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
+      <title type="html">Space Feminism</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Space Feminism" />
       <published>2014-07-14T00:00:00-04:00</published>
       <updated>2014-07-14T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-5</id>

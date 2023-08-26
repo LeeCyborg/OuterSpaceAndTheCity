@@ -1,8 +1,9 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2014-07-17
-img: cake.png
+img: SpaceDown.png
+title: Space Down
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
