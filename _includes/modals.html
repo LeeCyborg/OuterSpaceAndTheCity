@@ -47,6 +47,16 @@
                 <img src="img/ensad.png" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
+              {% if post.ars %}
+              <li>
+                <img src="img/ars.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
+              {% if post.hexagram %}
+              <li>
+                <img src="img/hexagram.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
