@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 4
+date: 2020-02-17
+img: SpaceDown.png
+title: Space Down
+alt: image-alt
+team: Directed by Dominic Gagnon<br> Scientific Consultant Marie Pier Boucher
+description: Space Down is a feature-length collage film made with amateur footage retrieved on the Internet. It documents the bootstrap of an astronaut community here on Earth who migrates to space in the confines of their homes. The film is a detournement of the COVID-19 lockdowns that renders visible the Earth momentarily as one of the biggest space analogues in history. <br> https://vimeo.com/814729245
+---

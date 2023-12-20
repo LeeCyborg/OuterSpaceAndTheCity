@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-08-26T13:24:09-04:00</updated>
+  <updated>2023-12-20T14:09:41-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Heteropolis</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Heteropolis" />
-      <published>2014-07-18T00:00:00-04:00</published>
-      <updated>2014-07-18T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-1</id>
+      <title type="html">Outer Space And The City</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Outer Space And The City" />
+      <published>2023-07-16T00:00:00-06:00</published>
+      <updated>2023-07-16T00:00:00-06:00</updated>
+      <id>http://localhost:4000/OuterSpaceAndCity</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -40,7 +40,101 @@
       </author>
 
       
-        <category term="Web Development" />
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Space Feminisms; People, Planets, Power</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Space Feminisms; People, Planets, Power" />
+      <published>2023-07-15T00:00:00-06:00</published>
+      <updated>2023-07-15T00:00:00-06:00</updated>
+      <id>http://localhost:4000/Feminisms</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Space Feminism / Féminisme spatial</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Space Feminism / Féminisme spatial" />
+      <published>2020-07-14T00:00:00-06:00</published>
+      <updated>2020-07-14T00:00:00-06:00</updated>
+      <id>http://localhost:4000/SpaceFeminism</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Space Media</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Space Media" />
+      <published>2020-07-14T00:00:00-06:00</published>
+      <updated>2020-07-14T00:00:00-06:00</updated>
+      <id>http://localhost:4000/SpaceMedia</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
       
 
       
@@ -56,9 +150,9 @@
     <entry>
       <title type="html">Space Down</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Space Down" />
-      <published>2014-07-17T00:00:00-04:00</published>
-      <updated>2014-07-17T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-2</id>
+      <published>2020-02-17T00:00:00-07:00</published>
+      <updated>2020-02-17T00:00:00-07:00</updated>
+      <id>http://localhost:4000/SpacDown</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -73,76 +167,6 @@
         
       </author>
 
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Outer Space And The City</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Outer Space And The City" />
-      <published>2014-07-16T00:00:00-04:00</published>
-      <updated>2014-07-16T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Space Feminisms</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Space Feminisms" />
-      <published>2014-07-15T00:00:00-04:00</published>
-      <updated>2014-07-15T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
       
 
       
@@ -158,9 +182,9 @@
     <entry>
       <title type="html">Membranes In Action</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Membranes In Action" />
-      <published>2014-07-15T00:00:00-04:00</published>
-      <updated>2014-07-15T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-6</id>
+      <published>2019-06-15T00:00:00-06:00</published>
+      <updated>2019-06-15T00:00:00-06:00</updated>
+      <id>http://localhost:4000/Membranes</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -175,8 +199,6 @@
         
       </author>
 
-      
-        <category term="Web Development" />
       
 
       
@@ -190,11 +212,11 @@
     </entry>
   
     <entry>
-      <title type="html">Space Feminism</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Space Feminism" />
-      <published>2014-07-14T00:00:00-04:00</published>
-      <updated>2014-07-14T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-5</id>
+      <title type="html">Heteropolis</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Heteropolis" />
+      <published>2018-07-18T00:00:00-06:00</published>
+      <updated>2018-07-18T00:00:00-06:00</updated>
+      <id>http://localhost:4000/hetropolis</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -210,7 +232,101 @@
       </author>
 
       
-        <category term="Web Development" />
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Adaptive Actions Madrid</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Adaptive Actions Madrid" />
+      <published>2017-07-14T00:00:00-06:00</published>
+      <updated>2017-07-14T00:00:00-06:00</updated>
+      <id>http://localhost:4000/AdaptiveActions</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Formats X Livres-lieux – Adaptive Actions</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Formats X Livres-lieux – Adaptive Actions" />
+      <published>2016-07-14T00:00:00-06:00</published>
+      <updated>2016-07-14T00:00:00-06:00</updated>
+      <id>http://localhost:4000/FormatsXAdaptivemarkdown</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Kosmica Institute</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Kosmica Institute" />
+      <published>2015-07-14T00:00:00-06:00</published>
+      <updated>2015-07-14T00:00:00-06:00</updated>
+      <id>http://localhost:4000/Kosmica</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
       
 
       

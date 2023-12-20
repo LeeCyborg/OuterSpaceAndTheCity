@@ -14,14 +14,37 @@
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
+            <h3>Team </h3>
+            <p>{{ post.team }}</p>
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
+         
             <ul class="list-inline item-details">
               {% if post.project-date %}
               <li>Date:
                 <strong>{{ post.project-date }}</strong>
+              </li>
+              {% endif %}
+              {% if post.concordia %}
+              <li>
+                <img src="img/concordia.jpeg" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
+              {% if post.uoft %}
+              <li>
+                <img src="img/uoft.png" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
+              {% if post.sshrc %}
+              <li>
+                <img src="img/sshrc.jpeg" class="img-responsive img-centered" alt="{{ post.alt }}">
+              </li>
+              {% endif %}
+              {% if post.ensad %}
+              <li>
+                <img src="img/ensad.png" class="img-responsive img-centered" alt="{{ post.alt }}">
               </li>
               {% endif %}
             </ul>

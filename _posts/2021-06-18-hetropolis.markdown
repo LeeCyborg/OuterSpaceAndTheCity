@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 5
+date: 18-07-18
+img: hetropolis.png
+title: Heteropolis
+alt: image-alt
+team: Editorial committee; Marie-Pier Boucher, Jean-Maxime Dufresne, Gema Melgar, Jean-François Prost, 
+description: In today’s cities, we witness a radical spatial split between economic classes, ethnic and cultural communities where monocultural and monogenerational interlockings emerge. We wish to reveal forms, practices and milieus of heterogenization which question and reconfigure urban, social and cultural homogenization. AA also questions how heterogeneous spaces and actions might create a common, that is to say how they might reveal radical intersections that continually reinvent the relational fabric that binds people, places, and things together. Heterogeneous spaces go beyond the representation of diversity and the collection of isolated fragments. By creating possibilities for indeterminacy these spaces act as triggers for creativity. Actions that create heterogeneity reveal the possibility of a common through urban interventions and cultural tensions that might be identified as queer, native, ethnic, generational, economic, industrial, ecological, and so on. <br> The Heteropolis book includes 40 contributions (1-10 A5 pages each), 13 texts of 1000-4000 words and an interview with political theorist Michael Hardt, co-author, with Toni Negri, of Commonwealth. In the book contributions take the form of an image, a scan, a drawing or a short text based on a thought, an emerging concept, an observation or an action related to Heteropolis. Adaptive Actions is particularly interested in contributions which explore the book and its pages as a unique, autonomous, and speciﬁc space for thought and action. Other contributions reveal an undocumented aspect of a project – revisiting a space or situation or a meaningful or significant heterogeneous or homogeneous space, which might never have activated, but which may prompt others to act upon.<br> http://adaptiveactions.net/aa/heteropolis/
+---
